@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class HalfPyramid {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the length of the Pyramid : ");
+        System.out.println("Enter the height of the Pyramid : ");
         int l=in.nextInt();
         System.out.println("Enter the breadth of the Pyramid : ");
         int b=in.nextInt();
