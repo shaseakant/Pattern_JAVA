@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Triangle01 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the height of the Pyramid : ");
+        System.out.println("Enter the height of the Triangle : ");
         int l=in.nextInt();
 
         for(int i=1;i<=l;i++){
